@@ -18,4 +18,4 @@ class Address extends React.Component {
   }
 }
 
-export dafault Address;
+export default Address;
