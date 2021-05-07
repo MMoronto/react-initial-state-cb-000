@@ -7,7 +7,7 @@ class Address extends React.Component {
   //   this.state = {
   //     fullAddress: `${props.street}, ${props.city}`
   //   }
-  // }
+  }
   
   render() {
     return (
